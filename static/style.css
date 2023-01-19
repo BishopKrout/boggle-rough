@@ -1,0 +1,31 @@
+body {
+    /* background-color: RGB(183,201,226); */
+    background-color: #C5E3EC;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#table {
+    justify-content: center;
+    width: 40%;
+    height: 40%;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 3px solid grey;
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: #ffee00;
+    font-size: 75px;
+}
